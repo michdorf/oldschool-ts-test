@@ -1,1 +1,4 @@
 build/
+combine/*.js
+core/*.js
+*.tsbuildinfo

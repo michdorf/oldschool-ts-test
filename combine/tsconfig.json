@@ -1,7 +1,7 @@
 {
   "extends": "../tsconfig-base.json",
   "compilerOptions": {
-    "outFile": "../build/combine.js",
-    "outDir": "../build/"
+    "outFile": "./combine.js",
+    // "outDir": "../build/"
   }
 }
