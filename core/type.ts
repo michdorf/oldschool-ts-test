@@ -1,4 +1,4 @@
-export default interface Test {
+interface Test {
     id: number;
     nome: string;
 }
