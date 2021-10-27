@@ -1,4 +1,6 @@
+*~
 build/
 combine/*.js
 core/*.js
 *.tsbuildinfo
+node_modules/
