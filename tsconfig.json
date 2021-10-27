@@ -2,10 +2,10 @@
   "files": [],
   "references": [
     {
-      "path": "./combine"
+      "path": "./ts-src/combine"
     },
     {
-      "path": "./core"
+      "path": "./ts-src/core"
     }
   ]
 }
