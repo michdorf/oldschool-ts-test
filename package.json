@@ -11,5 +11,8 @@
     "url": "olschool-ts-test"
   },
   "author": "Michele de Chiffre",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.0.0"
+  }
 }
